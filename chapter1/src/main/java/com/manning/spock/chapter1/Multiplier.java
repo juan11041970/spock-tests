@@ -1,5 +1,7 @@
 package com.manning.spock.chapter1;
 
+//Comment 1
+
 public class Multiplier {
 	
 	public int multiply(int a, int b) {
