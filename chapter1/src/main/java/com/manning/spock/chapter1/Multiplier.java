@@ -1,5 +1,7 @@
 package com.manning.spock.chapter1;
 //Adding comment
+//Adding commentt
+//Adding commentttt
 
 public class Multiplier {
 	
